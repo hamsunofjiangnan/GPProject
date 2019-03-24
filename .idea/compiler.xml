@@ -6,11 +6,30 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="GPProject" />
+        <module name="AdapterPattern" />
+        <module name="DecoratorPattern" />
+        <module name="DelegatePattern" />
+        <module name="FactoryPattern" />
+        <module name="ObserverPattern" />
+        <module name="PrototypePattern" />
+        <module name="ProxyPattern" />
+        <module name="SinglePattern" />
+        <module name="StrategyPattern" />
+        <module name="TemplatePattern" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="GPProject" target="1.5" />
+    <bytecodeTargetLevel target="1.8">
+      <module name="AdapterPattern" target="1.8" />
+      <module name="DecoratorPattern" target="1.8" />
+      <module name="DelegatePattern" target="1.8" />
+      <module name="FactoryPattern" target="1.8" />
+      <module name="GPProject" target="1.8" />
+      <module name="ObserverPattern" target="1.8" />
+      <module name="PrototypePattern" target="1.8" />
+      <module name="ProxyPattern" target="1.8" />
+      <module name="SinglePattern" target="1.8" />
+      <module name="StrategyPattern" target="1.8" />
+      <module name="TemplatePattern" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
