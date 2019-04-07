@@ -1,6 +1,4 @@
-package com.itcast.JdkProxy;
-
-import com.itcast.Man;
+package com.itcast;
 
 /**
  * @Author: hamsun

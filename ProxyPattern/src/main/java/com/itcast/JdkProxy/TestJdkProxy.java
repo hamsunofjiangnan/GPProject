@@ -1,5 +1,7 @@
 package com.itcast.JdkProxy;
 
+import com.itcast.Hamsun;
+
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 

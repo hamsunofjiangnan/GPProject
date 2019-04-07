@@ -1,5 +1,7 @@
 package com.itcast.CglibProxy;
 
+import com.itcast.Hamsun;
+
 /**
  * @Author: hamsun
  * @Description:
